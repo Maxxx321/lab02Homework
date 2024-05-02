@@ -3,7 +3,7 @@
 int main()
 {
     std::string name;
-    // Name input
+    // Input name
     std::cout << "Input name: ";
     std::cin >> name;
 
